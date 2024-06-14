@@ -1,0 +1,12 @@
+:root {
+    --main-adress-color:red;
+}
+.adress {
+    color: var(--main-adress-color);
+}
+.address {
+    color: var(--main-adress-color);
+}
+.text {
+    font-size: 24px;
+}
